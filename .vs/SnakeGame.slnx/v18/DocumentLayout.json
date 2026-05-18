@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\Snake.csproj|c:\\users\\pavel zhukov\\documents\\\u0438\u0433\u0440\u0430 c#\\snake\\snake\\globalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\Snake.csproj|solutionrelative:snake\\globalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\Snake.csproj|c:\\users\\pavel zhukov\\documents\\\u0438\u0433\u0440\u0430 c#\\snake\\snake\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\Snake.csproj|solutionrelative:snake\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\Snake.csproj|c:\\users\\pavel zhukov\\documents\\\u0438\u0433\u0440\u0430 c#\\snake\\snake\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\Snake.csproj|solutionrelative:snake\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\SnakeGame.csproj|c:\\users\\pavel zhukov\\documents\\\u0438\u0433\u0440\u0430 c#\\snake\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\SnakeGame.csproj|solutionrelative:snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\SnakeGame.csproj|c:\\users\\pavel zhukov\\documents\\\u0438\u0433\u0440\u0430 c#\\snake\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1114A7E8-E7D0-4AB7-9D85-A2A6CCF07783}|Snake\\SnakeGame.csproj|solutionrelative:snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake\\Snake.cs",
+              "ToolTip": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Snake.cs",
+              "RelativeToolTip": "Snake\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:52:49.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Program.cs",
+              "RelativeDocumentMoniker": "Snake\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Program.cs",
+              "RelativeToolTip": "Snake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:49:46.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\GlobalSettings.cs",
+              "RelativeDocumentMoniker": "Snake\\GlobalSettings.cs",
+              "ToolTip": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\GlobalSettings.cs",
+              "RelativeToolTip": "Snake\\GlobalSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:48:10.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Food.cs",
+              "RelativeDocumentMoniker": "Snake\\Food.cs",
+              "ToolTip": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Food.cs",
+              "RelativeToolTip": "Snake\\Food.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:47:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Game1.cs",
+              "RelativeDocumentMoniker": "Snake\\Game1.cs",
+              "ToolTip": "C:\\Users\\Pavel Zhukov\\Documents\\\u0418\u0433\u0440\u0430 C#\\Snake\\Snake\\Game1.cs",
+              "RelativeToolTip": "Snake\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:47:09.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
