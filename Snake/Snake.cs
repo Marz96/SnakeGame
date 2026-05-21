@@ -23,31 +23,31 @@ namespace SnakeGame
             IsDead = false;
         }
 
-        public void Update(bool grow)
-        {
-            if (IsDead) return;
+        public void Update(bool grow, List<Point> obstacles)
+{
+    if (IsDead) return;
 
-            Point newHead = Body[0] + Direction;
+    Point newHead = Body[0] + Direction;
 
-            if (newHead.X < 0 || newHead.X >= GlobalSettings.GridWidth ||
-                newHead.Y < 0 || newHead.Y >= GlobalSettings.GridHeight)
-            {
-                IsDead = true;
-                return;
-            }
+    if (newHead.X < 0 || newHead.X >= GlobalSettings.GridWidth || 
+        newHead.Y < 0 || newHead.Y >= GlobalSettings.GridHeight)
+    {
+        IsDead = true;
+        return;
+    }
 
-            if (Body.Contains(newHead))
-            {
-                IsDead = true;
-                return;
-            }
+    if (Body.Contains(newHead) || obstacles.Contains(newHead))
+    {
+        IsDead = true;
+        return;
+    }
 
-            Body.Insert(0, newHead);
-            if (!grow)
-            {
-                Body.RemoveAt(Body.Count - 1);
-            }
-        }
+    Body.Insert(0, newHead);
+    if (!grow)
+    {
+        Body.RemoveAt(Body.Count - 1);
+    }
+}
 
         public void Draw(SpriteBatch spriteBatch, Texture2D texture)
         {
